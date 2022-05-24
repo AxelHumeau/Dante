@@ -1,0 +1,6 @@
+solver/solver
+generator/generator
+libmy.a
+mazes
+*.o
+bonus/solver_bonus
